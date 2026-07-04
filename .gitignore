@@ -1,0 +1,6 @@
+output/*
+!output/.gitkeep
+screenshots/
+__pycache__/
+*.pyc
+assets/template.docx
